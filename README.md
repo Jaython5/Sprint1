@@ -1,2 +1,2 @@
-# Sprint1
+# Sprintgeneral
 Primer sprint Mintic 2022
